@@ -3,7 +3,7 @@ function clicked(){
 
     //const tts_text = document.getElementById("mytext");
     
-    var key = "a009f9e83afd49899cfc542ba72d218d";
+    var key = "";
     var region = "centralindia";
     var audioFile = "YourAudioFile.wav";
 
