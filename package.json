@@ -1,0 +1,28 @@
+{
+  "name": "speech-recogniser",
+  "version": "1.0.0",
+  "description": "paced reader",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:parcel": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vishwajeetsalunke2080/paced-reader.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "vishwajeet_salunke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwajeetsalunke2080/paced-reader/issues"
+  },
+  "homepage": "https://github.com/vishwajeetsalunke2080/paced-reader#readme",
+  "dependencies": {
+    "microsoft-cognitiveservices-speech-sdk": "^1.21.0",
+    "nodemon": "^2.0.16",
+    "require": "^2.4.20"
+  }
+}
